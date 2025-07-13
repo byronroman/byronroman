@@ -36,6 +36,8 @@
 
 <h2>🛠️ Technologies I Work With</h2>
 
+<div align="center">
+
 <table width="100%">
   <tr>
     <td><strong>Backend:</strong></td>
@@ -127,6 +129,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ## 📊 GitHub Stats
 
