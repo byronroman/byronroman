@@ -8,9 +8,8 @@
       <!-- Left: Greeting -->
       <td width="45%" valign="middle">
         <h1>
-          👋 Hello, I'm <span>Byron Román</span>
+          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hello, I'm <span>Byron Román</span>
         </h1>
-        <hr style="border: none; border-top: 1px solid #333; width: 60%;">
       </td>
       <!-- Right: Profile Summary -->
       <td width="55%" valign="middle">
