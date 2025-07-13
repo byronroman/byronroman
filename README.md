@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="300" height="250" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21uOWsxc2t2ZWt2c2w3N3JpOWI4ODluZDB5YW9uZHhlamI2eXhmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" />
+<img align=right width="400px" height="250px" alt="Gohan from Dragon Ball in the computer GIF" src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" />
 
 - 🎯 Passionate about **backend development**, **web design**, **LLMs**, and **AI-driven solutions**.
 - <p align="left">
@@ -136,7 +136,7 @@
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=byronroman&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
     </td>
     <td align="center">
-      <img width="400px" height="250px" alt="Gohan GIF" src="https://media1.tenor.com/m/G01BnllrCEIAAAAd/dragon-ball-dragon-ball-z.gif" />
+    <img align="right" width="300" height="250" alt="Coding GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21uOWsxc2t2ZWt2c2w3N3JpOWI4ODluZDB5YW9uZHhlamI2eXhmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" />
     </td>
   </tr>
 </table>
