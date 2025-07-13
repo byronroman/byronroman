@@ -20,9 +20,9 @@
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="50" style="vertical-align: middle;" alt="IBM Badge"/> Currently working as a <b>Backend Junior Developer at IBM</b>!
   </p>
 - 🎓 Graduated in **Computer Science**, specialized in **Data Science – Duoc UC**.
-- 🛠️ Improving my skills in:
-  - 🚀 NestJS
-  - 🅰️ Angular
+- 🔧 Improving my skills in:
+  - <img height="25" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
+  - <img height="25" src="https://skillicons.dev/icons?i=angular"/> Angular
 - 🤝 Always open to collaborate on **open-source** and **community-driven** projects.
 - 💬 Ask me anything! I'm happy to help if the ball is in my court 😉
 - 📧 Contact: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
