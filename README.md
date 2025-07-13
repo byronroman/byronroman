@@ -9,26 +9,30 @@
   I’m passionate about building clean, scalable and creative solutions that not only solve technical problems but also drive <b>meaningful social impact</b>.
 </p>
 
----
-
 ## 🧠 About Me
 
-<img align=right width="400px" height="250px" alt="Gohan from Dragon Ball in the computer GIF" src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" />
+<table>
+  <tr>
+    <td>
 
 - 🎯 Passionate about **backend development**, **web design**, **LLMs**, and **AI-driven solutions**.
 - <p align="left">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="50" style="vertical-align: middle;" alt="IBM Badge"/>
-    <span style="font-size: 16px;"> <b>Currently working as a Backend Junior Developer at IBM!</b></span>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="50" style="vertical-align: middle;" alt="IBM Badge"/> Currently working as a <b>Backend Junior Developer at IBM</b>!
   </p>
-- 🎓 Graduated in Computer Science with a specialization in Data Science – **Duoc UC**.
-- 🔧 Improving my skills in:
-  - <img height="25" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
-  - <img height="25" src="https://skillicons.dev/icons?i=angular"/> Angular
-- 🤝 Always open to collaborate on open-source and community-driven projects.
+- 🎓 Graduated in **Computer Science**, specialized in **Data Science – Duoc UC**.
+- 🛠️ Improving my skills in:
+  - 🚀 NestJS
+  - 🅰️ Angular
+- 🤝 Always open to collaborate on **open-source** and **community-driven** projects.
 - 💬 Ask me anything! I'm happy to help if the ball is in my court 😉
 - 📧 Contact: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
 
----
+</td>
+<td>
+  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="280px" alt="Gohan coding GIF">
+</td>
+  </tr>
+</table>
 
 ## 🔧 Technologies I Work With
 
