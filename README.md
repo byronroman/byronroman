@@ -2,39 +2,28 @@
 
 <!-- Hero Section -->
 <div align="center">
-  <table width="100%" style="
-    background-color: #0d1117;
-    border-radius: 20px;
-    padding: 40px;
-    border: 2px solid #1f2937;
-    box-shadow: 0 0 10px rgba(90,90,90,0.2);
-    color: #d4d4d4;
-    margin-bottom: 30px;
+  <table width="100%"
     ">
     <tr>
       <!-- Left: Greeting -->
-      <td width="45%" valign="middle" style="
-        text-align: center;
-        padding: 30px;
-        border-right: 1px solid #2d2d2d;
-      ">
-        <h1 style="font-size: 2.4rem; color: #c9d1d9; margin-bottom: 10px;">
-          👋 Hello, I'm <span style="color:#58a6ff;">Byron Román</span>
+      <td width="45%" valign="middle">
+        <h1>
+          👋 Hello, I'm <span>Byron Román</span>
         </h1>
         <hr style="border: none; border-top: 1px solid #333; width: 60%;">
       </td>
       <!-- Right: Profile Summary -->
-      <td width="55%" valign="middle" style="padding: 30px; text-align: left;">
-        <h3 style="margin-top: 0; color: #e6edf3;">
-          🧑‍💻 <b>Backend Developer specialized in</b> <span style="color:#58a6ff;">NestJS</span>
+      <td width="55%" valign="middle">
+        <h3>
+          🧑‍💻 <b>Backend Developer specialized in</b> <span>NestJS</span>
         </h3>
-        <p style="line-height: 1.7; margin: 15px 0;">
+        <p>
           With hands-on experience in <strong>microservices</strong>, <strong>BFF architectures</strong>, and <strong>hexagonal design</strong>, 
           I enjoy building clean and scalable backend solutions.
         </p>
-        <p style="line-height: 1.7;">
+        <p>
           I'm passionate about delivering 
-          <strong style="color:#c586c0;">meaningful social impact</strong> 
+          <strong>meaningful social impact</strong> 
           through elegant and efficient code.
         </p>
       </td>
@@ -44,10 +33,10 @@
 
 ## 🧠 About Me
 
-<table width="100%" style="border-spacing: 20px;">
+<table width="100%">
   <tr>
-    <td width="65%" style="background-color:#1e1e2f; padding:20px; border-radius:10px;">
-      <ul style="color:#d4d4d4; line-height:1.7;">
+    <td width="65%">
+      <ul>
         <li>🎯 Passionate about <b>backend development</b>, <b>web design</b>, <b>LLMs</b>, and <b>AI-driven solutions</b>.</li>
         <li>🎓 Graduated in <b>Computer Science</b>, specialized in <b>Data Science – Duoc UC</b>.</li>
         <li>🔧 Currently improving my skills in:
@@ -58,11 +47,11 @@
         </li>
         <li>🤝 Always open to collaborate on <b>open-source</b> and <b>community-driven</b> projects.</li>
         <li>💬 Ask me anything! I'm happy to help if the ball is in my court 😉</li>
-        <li>📧 Contact: <a href="mailto:by.romana3@gmail.com" style="color:#569cd6;">by.romana3@gmail.com</a></li>
+        <li>📧 Contact: <a href="mailto:by.romana3@gmail.com">by.romana3@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="260px" style="border-radius:12px;" alt="Gohan coding GIF">
+      <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="260px" alt="Gohan coding GIF">
     </td>
   </tr>
 </table>
@@ -71,12 +60,12 @@
 
 ## 💼 Work Experience
 
-<table width="100%" style="border-spacing: 20px;">
+<table width="100%">
   <tr>
-    <td width="60%" style="background-color:#1e1e2f; padding:20px; border-radius:10px;">
-      <h3 style="margin:0;">🔧 Backend Developer – <span style="color:#9cdcfe;"><b>IBM</b></span></h3>
-      <p style="color:#c9d1d9; font-size: 14px;">Mar 2025 – Present · Chile · Hybrid</p>
-      <ul style="padding-left: 20px; color:#d4d4d4;">
+    <td width="60%">
+      <h3>🔧 Backend Developer – <span><b>IBM</b></span></h3>
+      <p>Mar 2025 – Present · Chile · Hybrid</p>
+      <ul>
         <li>Development of scalable backend services using <b>NestJS</b>.</li>
         <li>Integration of APIs and microservices within <b>BFF architectures</b>.</li>
         <li>CI/CD pipelines and testing using <b>Docker</b> & <b>Insomnia</b>.</li>
@@ -87,10 +76,10 @@
     </td>
   </tr>
   <tr>
-    <td width="60%" style="background-color:#1e1e2f; padding:20px; border-radius:10px;">
-      <h3 style="margin:0;">💻 Frontend Developer Intern – <span style="color:#9cdcfe;"><b>IBM</b></span></h3>
-      <p style="color:#c9d1d9; font-size: 14px;">Sep 2024 – Mar 2025 · Chile · Hybrid</p>
-      <ul style="padding-left: 20px; color:#d4d4d4;">
+    <td width="60%">
+      <h3>💻 Frontend Developer Intern – <span><b>IBM</b></span></h3>
+      <p font-size: 14px;">Sep 2024 – Mar 2025 · Chile · Hybrid</p>
+      <ul>
         <li>Built UI components with <b>React</b>, <b>TypeScript</b>, and <b>SCSS</b>.</li>
         <li>Collaborated with UX and international teams for full integration.</li>
         <li>Integrated <b>LLaMA 3</b>-powered assistants to improve user workflows.</li>
