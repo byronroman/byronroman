@@ -40,90 +40,90 @@
   <tr>
     <td><strong>Backend:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
-      <img height="40" src="https://skillicons.dev/icons?i=redis" title="Redis" />
-      <img height="40" src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" title="Insomnia" />
-      <img height="40" src="https://skillicons.dev/icons?i=postman" title="Postman" />
+      <img height="35" src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
+      <img height="35" src="https://skillicons.dev/icons?i=redis" title="Redis" />
+      <img height="35" src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+      <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" title="Insomnia" />
+      <img height="35" src="https://skillicons.dev/icons?i=postman" title="Postman" />
     </td>
     <td><strong>Frontend:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=angular" title="Angular" />
-      <img height="40" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
-      <img height="40" src="https://skillicons.dev/icons?i=html" title="HTML" />
-      <img height="40" src="https://skillicons.dev/icons?i=css" title="CSS" />
-      <img height="40" src="https://skillicons.dev/icons?i=sass" title="SASS" />
-      <img height="40" src="https://skillicons.dev/icons?i=figma" title="Figma" />
+      <img height="35" src="https://skillicons.dev/icons?i=angular" title="Angular" />
+      <img height="35" src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+      <img height="35" src="https://skillicons.dev/icons?i=html" title="HTML" />
+      <img height="35" src="https://skillicons.dev/icons?i=css" title="CSS" />
+      <img height="35" src="https://skillicons.dev/icons?i=sass" title="SASS" />
+      <img height="35" src="https://skillicons.dev/icons?i=figma" title="Figma" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Database:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" />
-      <img height="40" src="https://user-images.githubusercontent.com/30929568/119166117-e0c9d700-ba7b-11eb-9aac-3916430ad28a.png" title="TypeORM" />
-      <img height="40" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
-      <img height="40" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
-      <img height="40" src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+      <img height="35" src="https://skillicons.dev/icons?i=prisma" title="Prisma ORM" />
+      <img height="35" src="https://user-images.githubusercontent.com/30929568/119166117-e0c9d700-ba7b-11eb-9aac-3916430ad28a.png" title="TypeORM" />
+      <img height="35" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+      <img height="35" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
+      <img height="35" src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
     </td>
     <td><strong>Cloud:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" />
-      <img height="40" src="https://skillicons.dev/icons?i=aws" title="AWS" />
-      <img height="40" src="https://skillicons.dev/icons?i=azure" title="Azure" />
+      <img height="35" src="https://skillicons.dev/icons?i=gcp" title="Google Cloud" />
+      <img height="35" src="https://skillicons.dev/icons?i=aws" title="AWS" />
+      <img height="35" src="https://skillicons.dev/icons?i=azure" title="Azure" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Version Control:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=git" title="Git" />
-      <img height="40" src="https://skillicons.dev/icons?i=github" title="GitHub" />
-      <img height="40" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
+      <img height="35" src="https://skillicons.dev/icons?i=git" title="Git" />
+      <img height="35" src="https://skillicons.dev/icons?i=github" title="GitHub" />
+      <img height="35" src="https://skillicons.dev/icons?i=gitlab" title="GitLab" />
     </td>
     <td><strong>Package Managers:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=npm" title="npm" />
-      <img height="40" src="https://skillicons.dev/icons?i=pnpm" title="pnpm" />
+      <img height="35" src="https://skillicons.dev/icons?i=npm" title="npm" />
+      <img height="35" src="https://skillicons.dev/icons?i=pnpm" title="pnpm" />
     </td>
   </tr>
 
   <tr>
     <td><strong>DevOps:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=docker" title="Docker" />
-      <img height="40" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
-      <img height="40" src="https://skillicons.dev/icons?i=jest" title="Jest" />
+      <img height="35" src="https://skillicons.dev/icons?i=docker" title="Docker" />
+      <img height="35" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
+      <img height="35" src="https://skillicons.dev/icons?i=jest" title="Jest" />
     </td>
     <td><strong>Operating Systems:</strong></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=windows" title="Windows" />
-      <img height="40" src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
+      <img height="35" src="https://skillicons.dev/icons?i=windows" title="Windows" />
+      <img height="35" src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Data Science:</strong></td>
     <td colspan="3">
-      <img height="40" src="https://skillicons.dev/icons?i=python" title="Python" />
-      <img height="40" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" />
-      <img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" title="NumPy" />
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" />
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" />
+      <img height="35" src="https://skillicons.dev/icons?i=python" title="Python" />
+      <img height="35" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
+      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" />
+      <img height="35" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" title="NumPy" />
+      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" />
+      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" />
     </td>
   </tr>
 
   <tr>
     <td><strong>Other Tools:</strong></td>
     <td colspan="3">
-      <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VSCode" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" />
-      <img height="40" src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
-      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" />
-      <img height="40" src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" />
-      <img height="40" src="https://skillicons.dev/icons?i=premiere" title="Premiere Pro" />
-      <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" title="Microsoft Teams" />
+      <img height="35" src="https://skillicons.dev/icons?i=vscode" title="VSCode" />
+      <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" />
+      <img height="35" src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+      <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" />
+      <img height="35" src="https://skillicons.dev/icons?i=photoshop" title="Photoshop" />
+      <img height="35" src="https://skillicons.dev/icons?i=premiere" title="Premiere Pro" />
+      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" title="Microsoft Teams" />
     </td>
   </tr>
 </table>
