@@ -25,7 +25,7 @@
   - <img height="25" src="https://skillicons.dev/icons?i=angular"/> Angular
 - 🤝 Always open to collaborate on **open-source** and **community-driven** projects.
 - 💬 Ask me anything! I'm happy to help if the ball is in my court 😉
-- 📧 Contact: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
+- 📧 Contact me: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
 
 </td>
 <td>
@@ -67,6 +67,7 @@
       <img height="35" src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
       <img height="35" src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />
       <img height="35" src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
+     <img height="35" src="https://icon.icepanel.io/Technology/svg/DBeaver.svg" title="DBeaver" />
     </td>
     <td><strong>Cloud:</strong></td>
     <td>
@@ -101,18 +102,6 @@
     <td>
       <img height="35" src="https://skillicons.dev/icons?i=windows" title="Windows" />
       <img height="35" src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>Data Science:</strong></td>
-    <td colspan="3">
-      <img height="35" src="https://skillicons.dev/icons?i=python" title="Python" />
-      <img height="35" src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" />
-      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" title="Pandas" />
-      <img height="35" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" title="NumPy" />
-      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" />
-      <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" />
     </td>
   </tr>
 
