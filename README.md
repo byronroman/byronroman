@@ -42,7 +42,7 @@
       <img height="40" src="https://skillicons.dev/icons?i=nestjs" title="NestJS" />
       <img height="40" src="https://skillicons.dev/icons?i=redis" title="Redis" />
       <img height="40" src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
-      <img height="40" src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" title="Insomnia" />
+      <img height="40" title="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" />
       <img height="40" src="https://skillicons.dev/icons?i=postman" title="Postman" />
     </td></tr>
 
