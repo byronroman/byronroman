@@ -11,14 +11,12 @@
 
 ## 🧠 About Me
 
-<table>
+<table cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td valign="top" style="border: none;">
 
 - 🎯 Passionate about **backend development**, **web design**, **LLMs**, and **AI-driven solutions**.
-- <p align="left">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="50" style="vertical-align: middle;" alt="IBM Badge"/> Currently working as a <b>Backend Junior Developer at IBM</b>!
-  </p>
+- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="50" style="vertical-align: middle;" alt="IBM Badge" /> Currently working as a <b>Backend Junior Developer at IBM</b>!
 - 🎓 Graduated in **Computer Science**, specialized in **Data Science – Duoc UC**.
 - 🔧 Improving my skills in:
   - <img height="25" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
@@ -26,13 +24,12 @@
 - 🤝 Always open to collaborate on **open-source** and **community-driven** projects.
 - 💬 Ask me anything! I'm happy to help if the ball is in my court 😉
 - 📧 Contact: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
-
-</td>
-<td>
+  </td>
+  <td valign="top" style="border: none; padding-left: 10px;">
   <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="280px" alt="Gohan coding GIF">
-</td>
-  </tr>
-</table>
+  </td>
+    </tr>
+  </table>
 
 <h2>🛠️ Technologies I Work With</h2>
 
