@@ -4,7 +4,7 @@
 <p align="center">
   🧑‍💻 <strong>Desarrollador Backend especializado en</strong> <code>NestJS</code> <br>
   Construyo sistemas limpios, escalables y resilientes utilizando <strong>microservicios</strong>, <strong>arquitecturas BFF</strong> y <strong>diseño hexagonal</strong>.<br>
-  Apasionado por generar <strong>impacto social significativo</strong> a través de código elegante.
+  Apasionado por generar <strong>impacto social significativo</strong> a través del código.
 </p>
 
 <p align="center">
