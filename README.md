@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=120&section=header"/>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
@@ -181,4 +181,4 @@
 I'm always open to new collaborations or backend challenges.  
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/byroman/) or explore my pinned repositories.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=100&section=footer"/>
