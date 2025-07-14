@@ -1,98 +1,65 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<!-- Hero Section -->
-<div align="center">
-  <table width="100%">
-    <tr>
-      <!-- Left: Greeting -->
-      <td width="45%" valign="middle">
-        <h1>
-          <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hello, I'm <span>Byron Román</span>
-        </h1>
-      </td>
-      <!-- Right: Profile Summary -->
-      <td width="55%" valign="middle">
-        <h3>
-          🧑‍💻 <b>Backend Developer specialized in</b> <span>NestJS</span>
-        </h3>
-        <p>
-          I build clean, scalable, and resilient backend systems with a focus on <strong>microservices</strong>, <strong>BFF architectures</strong>, and <strong>hexagonal design</strong>.
-        </p>
-        <p>
-          I'm passionate about delivering <strong>meaningful social impact</strong> through elegant and efficient code.
-        </p>
-      </td>
-    </tr>
-  </table>
-  <div align="left">
-    <a href="https://github.com/byronroman">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/byroman/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </div>
-</div>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+  Hello, I'm <strong>Byron Román</strong>
+</h1>
+
+<p align="center">
+  🧑‍💻 <strong>Backend Developer specialized in</strong> <code>NestJS</code> <br>
+  I build clean, scalable and resilient systems using <strong>microservices</strong>, <strong>BFF architectures</strong> and <strong>hexagonal design</strong>.<br>
+  Passionate about delivering <strong>meaningful social impact</strong> through elegant code.
+</p>
+
+<p align="center">
+  <a href="https://github.com/byronroman">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/byroman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-<table width="100%">
-  <tr>
-    <td width="65%">
-      <ul>
-        <li>🎯 Passionate about <b>backend development</b>, <b>web systems architecture</b>, and <b>AI-powered solutions</b>.</li>
-        <li>🎓 Computer Science graduate with a specialization in <b>Data Science (Duoc UC)</b>.</li>
-        <li>🧪 Currently sharpening my skills in:
-          <ul>
-            <li><img height="20" src="https://skillicons.dev/icons?i=nestjs"/> NestJS</li>
-            <li><img height="20" src="https://skillicons.dev/icons?i=angular"/> Angular</li>
-          </ul>
-        </li>
-        <li>🤝 Always open to collaborate on <b>open-source</b> and <b>tech-for-good</b> projects.</li>
-        <li>💬 Happy to help or discuss interesting backend problems.</li>
-        <li>📧 Contact: <a href="mailto:by.romana3@gmail.com">by.romana3@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="260px" alt="Coding Gohan GIF">
-    </td>
-  </tr>
-</table>
+- 🎯 Passionate about **backend development**, **web systems architecture**, and **AI-powered solutions**  
+- 🎓 Computer Science graduate with a specialization in **Data Science (Duoc UC)**  
+- 🧪 Currently focused on mastering:
+  - <img height="20" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
+  - <img height="20" src="https://skillicons.dev/icons?i=angular"/> Angular  
+- 🤝 Open to collaborate on **open-source** and **tech-for-good** projects  
+- 💬 Always happy to collaborate or help whenever it's within my scope.
+- 📧 Reach me at: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
+
+<p align="center">
+  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="220" alt="Coding Gohan GIF" />
+</p>
 
 ---
 
 ## 💼 Work Experience
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%">
-        <h3>🔧 Backend Developer – <span><b>IBM</b></span></h3>
-        <p>Mar 2025 – Present · Chile · Hybrid</p>
-        <ul>
-          <li>Developed scalable backend services using <b>NestJS</b>.</li>
-          <li>Integrated APIs and microservices within <b>BFF architectures</b>.</li>
-          <li>Implemented CI/CD pipelines and testing using <b>Docker</b> & <b>Insomnia</b>.</li>
-        </ul>
-      </td>
-      <td rowspan="2" align="center" width="40%">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="300" alt="IBM badge" style="border-radius: 12px;" />
-      </td>
-    </tr>
-    <tr>
-      <td width="60%">
-        <h3>💻 Frontend Developer Intern – <span><b>IBM</b></span></h3>
-        <p>Sep 2024 – Mar 2025 · Chile · Hybrid</p>
-        <ul>
-          <li>Built UI components using <b>React</b>, <b>TypeScript</b>, and <b>SCSS</b>.</li>
-          <li>Collaborated with UX designers and international dev teams.</li>
-          <li>Integrated <b>LLaMA 3</b>-powered assistants to enhance user flows.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  
+  ### 🔧 Backend Developer – **IBM**  
+  📍 *Mar 2025 – Present · Chile · Hybrid*
+  
+  - Developed scalable backend services using **NestJS**  
+  - Integrated APIs and microservices within **BFF architectures**  
+  - Implemented CI/CD pipelines and testing with **Docker** & **Insomnia**
+  
+  ### 💻 Frontend Developer Intern – **IBM**  
+  📍 *Sep 2024 – Mar 2025 · Chile · Hybrid*
+  
+  - Built UI components using **React**, **TypeScript**, and **SCSS**  
+  - Collaborated with UX teams and developers from multiple regions  
+  - Integrated **LLaMA 3** assistants to optimize internal workflows
+  
+  <p align="left">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="280" alt="IBM Badge" />
+  </p>
 </div>
 
 ---
@@ -182,42 +149,27 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=byronroman&theme=tokyonight&show_icons=true&count_private=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=byronroman&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronroman&theme=tokyonight&layout=compact&langs_count=10"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byronroman&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byronroman&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronroman&theme=tokyonight&layout=compact&langs_count=10"/>
+</p>
 
 ---
 
 ## 🏆 Achievements & Recognitions
 
-<ul>
-  <li>🥈 2nd place – <b>AWS DeepRacer Community Day Chile</b> (2023)</li>
-  <li>🚀 Finalist – <b>All In Chile</b> challengue (DuocUC)</li>
-  <li>📚 25+ certifications in backend, cloud & API development</li>
-  <li>
-    <a href="https://www.linkedin.com/in/byroman/details/certifications/" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Certifications%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Certifications Badge"/>
-    </a>
-  </li>
-</ul>
+- 🥈 2nd place – **AWS DeepRacer Community Day Chile** (2023)  
+- 🚀 Finalist – **All In Chile** challenge (DuocUC)  
+- 📚 25+ certifications in backend, cloud & API development  
+- 🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
 
 ---
 
 ## 🤝 Let's Connect!
 
-📢 I'm always open to new collaborations or backend challenges.  
+I'm always open to new collaborations, freelance work, or backend challenges.  
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/byroman/) or explore my pinned repositories.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer"/>
