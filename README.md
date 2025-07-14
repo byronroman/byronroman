@@ -87,7 +87,7 @@
   </table>
 </div>
 
-<h2>🛠️ Technologies I Work With</h2>
+## 🛠️ Technologies I Work With
 
 <div align="center">
   <table width="100%">
