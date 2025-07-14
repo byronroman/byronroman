@@ -12,13 +12,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/byronroman">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/byronroman" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/byroman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/byroman/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:by.romana3@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
+  </a>
+  &nbsp;
+  <a href="https://your-cv-link.com/byronroman-cv.pdf" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/resume.png" height="40" title="My CV" />
   </a>
 </p>
+
+
+
+
 
 ---
 
