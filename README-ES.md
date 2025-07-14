@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/byronroman/byronroman/blob/main/README.md" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20View%20in%20English-0e7490?style=flat-square&logo=readme&logoColor=white" height="40" title="View in English" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/byronroman" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" title="Perfil de GitHub" />
   </a>
