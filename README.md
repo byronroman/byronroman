@@ -4,7 +4,7 @@
 <p align="center">
   🧑‍💻 <strong>Backend Developer specialized in</strong> <code>NestJS</code> <br>
   I build clean, scalable and resilient systems using <strong>microservices</strong>, <strong>BFF architectures</strong> and <strong>hexagonal design</strong>.<br>
-  Passionate about delivering <strong>meaningful social impact</strong> through elegant code.
+  Passionate about delivering <strong>meaningful social impact</strong> through code.
 </p>
 
 <p align="center">
