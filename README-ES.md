@@ -1,5 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=Hola,%20soy%20Byron%20Román&fontColor=ffffff&fontSize=45" title="Hola, soy Byron Román"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=¡Hola,%20soy%20Byron%20Román!&fontColor=ffffff&fontSize=45" title="Hola, soy Byron Román"/>
 
 <p align="center">
   🧑‍💻 <strong>Desarrollador Backend especializado en</strong> <code>NestJS</code> <br>
