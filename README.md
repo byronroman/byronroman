@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/byronroman/tu-repo/blob/main/README.es.md" target="_blank">
+  <a href="https://github.com/byronroman/byronroman/blob/main/README-ES.md" target="_blank">
       <img src="https://img.shields.io/badge/🌐%20Ver%20en%20Español-0e7490?style=flat-square&logo=readme&logoColor=white" height="40" title="Ver en Español" />
   </a>
 </p>
