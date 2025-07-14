@@ -169,7 +169,7 @@
 
 ## 🤝 Let's Connect!
 
-I'm always open to new collaborations, freelance work, or backend challenges.  
+I'm always open to new collaborations or backend challenges.  
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/byroman/) or explore my pinned repositories.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer"/>
