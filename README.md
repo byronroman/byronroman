@@ -13,18 +13,18 @@
 
 <p align="center">
   <a href="https://github.com/byronroman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub Profile" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/byroman/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn Profile" />
   </a>
   &nbsp;
   <a href="mailto:by.romana3@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
   </a>
   &nbsp;
-  <a href="https://your-cv-link.com/byronroman-cv.pdf" target="_blank">
+  <a href="https://docs.google.com/document/d/1iMW-DzfPvhPe4ImXrYLycyhmBPt1D6zM/edit?usp=sharing&ouid=113629428553692709965&rtpof=true&sd=true" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/000000/resume.png" height="40" title="My CV" />
   </a>
 </p>
