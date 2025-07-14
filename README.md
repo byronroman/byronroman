@@ -7,6 +7,11 @@
   Passionate about delivering <strong>meaningful social impact</strong> through elegant code.
 </p>
 
+<p align="center">
+  <a href="https://github.com/byronroman/tu-repo/blob/main/README.es.md" target="_blank">
+      <img src="https://img.shields.io/badge/🌐%20Ver%20en%20Español-0e7490?style=flat-square&logo=readme&logoColor=white" height="40" title="Ver en Español" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/byronroman" target="_blank">
@@ -17,22 +22,15 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn Profile" />
   </a>
   &nbsp;
-  <a href="https://docs.google.com/document/d/1iMW-DzfPvhPe4ImXrYLycyhmBPt1D6zM/edit?usp=sharing&ouid=113629428553692709965&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1iMW-DzfPvhPe4ImXrYLycyhmBPt1D6zM/edit?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/000000/resume.png" height="40" title="My CV" />
   </a>
   &nbsp;
   <a href="mailto:by.romana3@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
   </a>
+  &nbsp;
 </p>
-
-<p align="center">
-  <a href="https://github.com/byronroman/byronroman/blob/main/README-ES.md">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20en%20Español-facc15?style=for-the-badge&logo=readme&logoColor=black" />
-  </a>
-</p>
-
-
 
 ---
 
