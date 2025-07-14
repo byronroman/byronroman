@@ -52,31 +52,6 @@
 
 ---
 
-## 💼 Work Experience
-
-<div align="left">
-  
-  ### 🔧 Backend Developer – **IBM**  
-  📍 *Mar 2025 – Present · Chile · Hybrid*
-  
-  - Developed scalable backend services using **NestJS**  
-  - Integrated APIs and microservices within **BFF architectures**  
-  - Implemented CI/CD pipelines and testing with **Docker** & **Insomnia**
-  
-  ### 💻 Frontend Developer Intern – **IBM**  
-  📍 *Sep 2024 – Mar 2025 · Chile · Hybrid*
-  
-  - Built UI components using **React**, **TypeScript**, and **SCSS**  
-  - Collaborated with UX teams and developers from multiple regions  
-  - Integrated **LLaMA 3** assistants to optimize internal workflows
-  
-  <p align="left">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="280" alt="IBM Badge" />
-  </p>
-</div>
-
----
-
 ## 🛠️ Technologies I Work With
 
 <div align="center">
@@ -160,14 +135,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Work Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=byronroman&theme=tokyonight&show_icons=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byronroman&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronroman&theme=tokyonight&layout=compact&langs_count=10"/>
-</p>
+<div align="left">
+  
+  ### 🔧 Backend Developer – **IBM**  
+  📍 *Mar 2025 – Present · Chile · Hybrid*
+  
+  - Developed scalable backend services using **NestJS**  
+  - Integrated APIs and microservices within **BFF architectures**  
+  - Implemented CI/CD pipelines and testing with **Docker** & **Insomnia**
+  
+  ### 💻 Frontend Developer Intern – **IBM**  
+  📍 *Sep 2024 – Mar 2025 · Chile · Hybrid*
+  
+  - Built UI components using **React**, **TypeScript**, and **SCSS**  
+  - Collaborated with UX teams and developers from multiple regions  
+  - Integrated **LLaMA 3** assistants to optimize internal workflows
+  
+  <p align="left">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="280" alt="IBM Badge" />
+  </p>
+</div>
 
 ---
 
@@ -177,6 +166,17 @@
 - 🚀 Finalist – **All In Chile** challenge (DuocUC)  
 - 📚 25+ certifications in backend, cloud & API development  
 - 🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=byronroman&theme=tokyonight&show_icons=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=byronroman&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byronroman&theme=tokyonight&layout=compact&langs_count=10"/>
+</p>
 
 ---
 
