@@ -28,6 +28,14 @@
       </td>
     </tr>
   </table>
+  <div align="left">
+    <a href="https://github.com/byronroman">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/byroman/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </div>
 </div>
 
 ## 🧠 About Me
