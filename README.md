@@ -20,18 +20,14 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="LinkedIn Profile" />
   </a>
   &nbsp;
-  <a href="mailto:by.romana3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
-  </a>
-  &nbsp;
   <a href="https://docs.google.com/document/d/1iMW-DzfPvhPe4ImXrYLycyhmBPt1D6zM/edit?usp=sharing&ouid=113629428553692709965&rtpof=true&sd=true" target="_blank">
     <img src="https://img.icons8.com/plasticine/100/000000/resume.png" height="40" title="My CV" />
   </a>
+  &nbsp;
+  <a href="mailto:by.romana3@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
+  </a>
 </p>
-
-
-
-
 
 ---
 
@@ -47,7 +43,7 @@
 - 📧 Reach me at: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
 
 <p align="center">
-  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="220" alt="Coding Gohan GIF" />
+  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="Coding Gohan GIF" />
 </p>
 
 ---
