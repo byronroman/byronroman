@@ -30,8 +30,6 @@
   </table>
 </div>
 
----
-
 ## 🧠 About Me
 
 <table width="100%">
@@ -56,8 +54,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ## 💼 Work Experience
 
@@ -90,8 +86,6 @@
     </tr>
   </table>
 </div>
-
----
 
 <h2>🛠️ Technologies I Work With</h2>
 
@@ -174,8 +168,6 @@
   </table>
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -197,8 +189,6 @@
   </tr>
 </table>
 
----
-
 ## 🏆 Achievements & Recognitions
 
 <ul>
@@ -211,7 +201,5 @@
     </a>
   </li>
 </ul>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=100&section=footer"/>
