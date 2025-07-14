@@ -41,8 +41,7 @@
   - <img height="20" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
   - <img height="20" src="https://skillicons.dev/icons?i=angular"/> Angular  
 - 🤝 Abierto a colaborar en proyectos **open-source** y con impacto social  
-- 💬 Siempre dispuesto a ayudar o participar si está dentro de mis capacidades  
-- 📧 Contacto: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
+- 💬 Siempre dispuesto a ayudar o participar si está dentro de mis capacidades 
 
 <p align="center">
   <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="GIF de Gohan programando" />
