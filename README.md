@@ -43,7 +43,6 @@
   - <img height="20" src="https://skillicons.dev/icons?i=angular"/> Angular  
 - 🤝 Open to collaborate on **open-source** and **tech-for-good** projects  
 - 💬 Always happy to collaborate or help whenever it's within my scope.
-- 📧 Reach me at: [by.romana3@gmail.com](mailto:by.romana3@gmail.com)
 
 <p align="center">
   <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="Coding Gohan GIF" />
