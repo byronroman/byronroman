@@ -1,11 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=Hello,%20I'm%20Byron%20Román&fontColor=ffffff&fontSize=45" title="Hello, I'm Byron Román"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=¡Hello,%20I'm%20Byron%20Román!&fontColor=ffffff&fontSize=45" title="Hello, I'm Byron Román"/>
 
 <p align="center">
   🧑‍💻 <strong>Backend Developer specialized in</strong> <code>NestJS</code> <br>
   I build clean, scalable and resilient systems using <strong>microservices</strong>, <strong>BFF architectures</strong> and <strong>hexagonal design</strong>.<br>
   Passionate about delivering <strong>meaningful social impact</strong> through elegant code.
 </p>
+
 
 <p align="center">
   <a href="https://github.com/byronroman" target="_blank">
@@ -24,6 +25,14 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/byronroman/byronroman/blob/main/README-ES.md">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20en%20Español-facc15?style=for-the-badge&logo=readme&logoColor=black" />
+  </a>
+</p>
+
+
 
 ---
 
