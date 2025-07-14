@@ -1,9 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=120&section=header"/>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
-  Hello, I'm <strong>Byron Román</strong>
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=Hello,%20I'm%20Byron%20Román&fontColor=ffffff&fontSize=45" title="Hello, I'm Byron Román"/>
 
 <p align="center">
   🧑‍💻 <strong>Backend Developer specialized in</strong> <code>NestJS</code> <br>
@@ -31,7 +27,7 @@
 
 ---
 
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  About Me
 
 - 🎯 Passionate about **backend development**, **web systems architecture**, and **AI-powered solutions**  
 - 🎓 Computer Science graduate with a specialization in **Data Science (Duoc UC)**  
