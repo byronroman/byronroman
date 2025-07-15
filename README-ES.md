@@ -179,7 +179,7 @@
 
 ## 🤝 ¡Conectemos!
 
-Listo para nuevas colaboraciones y desafíos.
+¡Listo para nuevas colaboraciones y desafíos!
 No dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/byroman/) o revisar mis repositorios destacados.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=100&section=footer"/>
