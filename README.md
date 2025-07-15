@@ -180,7 +180,7 @@
 
 ## 🤝 Let's Connect!
 
-I'm always open to new collaborations or challenges.  
+¡I'm always open to new collaborations or challenges!  
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/byroman/) or explore my pinned repositories.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=100&section=footer"/>
