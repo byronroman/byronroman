@@ -140,8 +140,7 @@
 📍 *Mar 2025 – Actualidad · Chile · Híbrido*
 
 - Desarrollo de servicios backend escalables con **NestJS**  
-- Integración de APIs y microservicios en arquitecturas **BFF**  
-- Automatización CI/CD y testing con **Docker** & **Insomnia**
+- Integración de APIs y microservicios en arquitecturas **BFF**
 
 ### 💻 Práctica Profesional como Desarrollador Frontend – **IBM**  
 📍 *Sep 2024 – Mar 2025 · Chile · Híbrido*
