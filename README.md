@@ -141,8 +141,7 @@
   📍 *Mar 2025 – Present · Chile · Hybrid*
   
   - Developed scalable backend services using **NestJS**  
-  - Integrated APIs and microservices within **BFF architectures**  
-  - Implemented CI/CD pipelines and testing with **Docker** & **Insomnia**
+  - Integrated APIs and microservices within **BFF architectures**
   
   ### 💻 Frontend Developer Intern – **IBM**  
   📍 *Sep 2024 – Mar 2025 · Chile · Hybrid*
