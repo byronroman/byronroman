@@ -38,8 +38,11 @@
 - 🎯 Apasionado por el **desarrollo backend**, la **arquitectura de sistemas web** y las **soluciones impulsadas por IA**  
 - 🎓 Titulado en Ingeniería en Informática con mención en **Ciencia de Datos (Duoc UC)**  
 - 🧪 Actualmente profundizando en:
-  - <img height="20" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
-  - <img height="20" src="https://skillicons.dev/icons?i=angular"/> Angular  
+  - <img height="20" src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/> NestJS
+  - <img height="20" src="https://skillicons.dev/icons?i=angular" title="Angular" /> Angular
+  - <img height="20" src="https://skillicons.dev/icons?i=docker" title="Docker" /> Docker
+  - <img height="20" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /> Kubernetes
+  - <img height="20" src="https://skillicons.dev/icons?i=jest" title="Jest" /> Jest
 - 🤝 Abierto a colaborar en proyectos **open-source** y con impacto social  
 - 💬 Siempre dispuesto a ayudar o participar si está dentro de mis capacidades 
 
