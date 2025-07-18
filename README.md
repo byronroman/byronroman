@@ -39,8 +39,11 @@
 - 🎯 Passionate about **backend development**, **web systems architecture**, and **AI-powered solutions**  
 - 🎓 Computer Science graduate with a specialization in **Data Science (Duoc UC)**  
 - 🧪 Currently focused on mastering:
-  - <img height="20" src="https://skillicons.dev/icons?i=nestjs"/> NestJS
-  - <img height="20" src="https://skillicons.dev/icons?i=angular"/> Angular  
+  - <img height="20" src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/> NestJS
+  - <img height="20" src="https://skillicons.dev/icons?i=angular" title="Angular" /> Angular
+  - <img height="20" src="https://skillicons.dev/icons?i=docker" title="Docker" /> Docker
+  - <img height="20" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /> Kubernetes
+  - <img height="20" src="https://skillicons.dev/icons?i=jest" title="Jest" /> Jest
 - 🤝 Open to collaborate on **open-source** and **tech-for-good** projects  
 - 💬 Always happy to collaborate or help whenever it's within my scope.
 
