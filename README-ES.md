@@ -2,14 +2,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=¡Hola,%20soy%20Byron%20Román!&fontColor=ffffff&fontSize=45" title="Hola, soy Byron Román"/>
 
 <p align="center">
-  🧑‍💻 <strong>Desarrollador Backend especializado en</strong> <code>NestJS</code> <br>
-  Construyo sistemas limpios, escalables y resilientes utilizando <strong>microservicios</strong>, <strong>arquitecturas BFF</strong> y <strong>diseño hexagonal</strong>.<br>
+  🧑‍💻 <strong>Desarrollador Fullstack especializado en</strong> <code>Angular</code> & <code>NestJS</code> <br>
+  Construyo sistemas limpios, escalables y resilientes utilizando <strong>microservicios</strong>, <strong>arquitectura BFF</strong> y <strong>diseño hexagonal</strong>.<br>
   Apasionado por generar <strong>impacto social significativo</strong> a través del código.
 </p>
 
 <p align="center">
   <a href="https://github.com/byronroman/byronroman/blob/main/README.md" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20View%20in%20English-0e7490?style=flat-square&logo=readme&logoColor=white" height="40" title="View in English" />
+    <img src="https://img.shields.io/badge/View%20in%20English-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="View in English">
   </a>
 </p>
 
@@ -22,12 +22,12 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" title="Perfil de LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://docs.google.com/document/d/1iMW-DzfPvhPe4ImXrYLycyhmBPt1D6zM/edit?usp=sharing&ouid=113629428553692709965&rtpof=true&sd=true" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/000000/resume.png" height="40" title="Currículum Vitae" />
+  <a href="https://docs.google.com/document/d/1iMW-DzfPvhPe4ImXrYLycyhmBPt1D6zM/edit?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/plasticine/100/000000/resume.png" height="40" title="Mi CV" />
   </a>
   &nbsp;
   <a href="mailto:by.romana3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Correo electrónico" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" title="Email" />
   </a>
 </p>
 
@@ -35,24 +35,24 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Sobre mí
 
-- 🎯 Apasionado por el **desarrollo backend**, la **arquitectura de sistemas web** y las **soluciones impulsadas por IA**  
-- 🎓 Titulado en Ingeniería en Informática con mención en **Ciencia de Datos (Duoc UC)**  
-- 🧪 Actualmente profundizando en:
+- 🎯 Apasionado por el <strong>desarrollo backend</strong>, las <strong>soluciones con IA</strong> y el <strong>diseño visual impactante</strong>.
+- 🎓 Ingeniero en informática titulado de **Duoc UC**, con mención en Ciencia de Datos.
+- 🧪 Actualmente enfocado en dominar:
   - <img height="20" src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/> NestJS
   - <img height="20" src="https://skillicons.dev/icons?i=angular" title="Angular" /> Angular
   - <img height="20" src="https://skillicons.dev/icons?i=docker" title="Docker" /> Docker
   - <img height="20" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /> Kubernetes
   - <img height="20" src="https://skillicons.dev/icons?i=jest" title="Jest" /> Jest
-- 🤝 Abierto a colaborar en proyectos **open-source** y con impacto social  
-- 💬 Siempre dispuesto a ayudar o participar si está dentro de mis capacidades 
+- 🤝 Interesado en contribuir a proyectos **open-source** y en iniciativas tecnológicas con impacto social **(tech-for-good)**. 
+- 💬 Comprometido con colaborar, compartir conocimientos y apoyar siempre que esté dentro de mis posibilidades.
 
 <p align="center">
-  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="GIF de Gohan programando" />
+  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="Gohan programando - Dragon Ball GIF" />
 </p>
 
 ---
 
-## 🛠️ Tecnologías que utilizo
+## 🛠️ Tecnologías con las que trabajo
 
 <div align="center">
   <table width="100%">
@@ -135,36 +135,49 @@
 
 ---
 
-## 💼 Experiencia Laboral
+## 💼 Experiencia Profesional
 
 <div align="left">
-
-### 🔧 Desarrollador Backend – **IBM**  
-📍 *Mar 2025 – Actualidad · Chile · Híbrido*
-
-- Desarrollo de servicios backend escalables con **NestJS**  
-- Integración de APIs y microservicios en arquitecturas **BFF**
-
-### 💻 Práctica Profesional como Desarrollador Frontend – **IBM**  
-📍 *Sep 2024 – Mar 2025 · Chile · Híbrido*
-
-- Construcción de componentes UI con **React**, **TypeScript** y **SCSS**  
-- Trabajo colaborativo con equipos UX y desarrollo internacional  
-- Integración de asistentes con **LLaMA 3** para optimizar flujos de trabajo
-
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="280" alt="Insignia IBM" />
-</p>
+  
+  ### 🔧 Desarrollador Backend – **IBM**  
+  📍 *Mar 2025 – Presente · Chile · Híbrido*
+  
+  - Desarrollo de microservicios robustos con **NestJS** y **TypeScript**
+  - Implementación del patrón **BFF** para mejorar la interacción front-back
+  - Trabajo colaborativo con equipos de UX, frontend y DevOps
+  
+  ### 💻 Practicante Frontend – **IBM**  
+  📍 *Sep 2024 – Mar 2025 · Chile · Híbrido*
+  
+  - Creación de componentes UI usando **React**, **TypeScript** y **SCSS**  
+  - Colaboración con equipos de UX y developers internacionales  
+  - Integración de asistentes **LLaMA 3** para optimizar flujos internos
+  
+  <p align="left">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RwdzZyNzZxbTRodDJ4MndkejV1cWJla3Qya2Rhc2xwZnVmajV1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4T1C5WDMjg8u9sbgcT/giphy.gif" width="280" alt="Insignia IBM" />
+  </p>
 </div>
 
 ---
 
 ## 🏆 Logros y Reconocimientos
 
-- 🥈 2.º lugar – **AWS DeepRacer Community Day Chile** (2023)  
-- 🚀 Finalista – **All In Chile** Challenge (DuocUC)  
-- 📚 Más de 25 certificaciones en backend, cloud y desarrollo de APIs  
-- 🔗 [Ver certificaciones en LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
+* 🧈 **2º Lugar – AWS DeepRacer Community Day Chile** *(2023)*  
+  Participación en el desafío de autos autónomos **AWS DeepRacer**, logrando el 2º lugar en la final con un tiempo de 10.526 segundos. Esta experiencia permitió aplicar conceptos de machine learning y reforzar conocimientos de aprendizaje por refuerzo.
+
+* 🚀 **BuenVerbo – App Interactiva de Ortografía**  
+  Co-desarrollador de *BuenVerbo*, aplicación móvil que fortalece la ortografía en niños y jóvenes mediante ejercicios temáticos y lúdicos. Destacada en **All In Chile** (Duoc UC), entre las 100 soluciones más innovadoras a nivel nacional.  
+  [🎥 Mira mi pitch en el evento All In Chile](https://www.linkedin.com/feed/update/urn:li:activity:7120030697850843136/)
+
+* 🎤 **Festival Pitch**  
+  2º lugar en competencia individual por pitch, destacando una presentación de 4 minutos con propuesta tecnológica innovadora.
+
+* 🗽 **Certificación TOEIC B1**  
+  Certificación internacional que valida dominio intermedio del inglés.
+
+* 📚 **Más de 25 certificaciones**  
+  Cursos completados en **NestJS**, **IA**, **Cloud** y más.  
+  🔗 [Ver certificaciones en LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
 
 ---
 
@@ -181,7 +194,7 @@
 
 ## 🤝 ¡Conectemos!
 
-¡Listo para nuevas colaboraciones y desafíos!
-No dudes en escribirme por [LinkedIn](https://www.linkedin.com/in/byroman/) o revisar mis repositorios destacados.
+¡Siempre dispuesto a nuevas colaboraciones o desafíos!  
+Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/byroman/) o explorar mis repositorios destacados.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=100&section=footer"/>
