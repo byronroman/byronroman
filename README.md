@@ -163,22 +163,24 @@
 
 ## 🏆 Achievements & Recognitions
 
-* 🧈 **2nd Place – AWS DeepRacer Community Day Chile** *(2023)*
-  Participated with my team in the autonomous racing challenge **AWS DeepRacer**, where we achieved 2nd place in the finals with a time of 10.526 seconds, after winning the trial race. This experience allowed me to apply machine learning concepts and deepen my understanding of reinforcement learning and AI-powered systems.
+- ### 📚 25+ Technical Certifications
+    Completed a wide range of certifications in areas such as **NestJS**, **Artificial Intelligence**, **Cloud Computing**, and more.
+    🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
 
-* 🚀 **BuenVerbo – Interactive Orthography App**
-  Co-developed *BuenVerbo*, a mobile application designed to tackle orthographic challenges in children and teens through playful and thematic exercises. The project was recognized at **All In Chile** (Duoc UC), ranking among the top 100 innovative solutions nationwide.
-  [🎥 Check out my pitch at the All In Chile event](https://www.linkedin.com/feed/update/urn:li:activity:7120030697850843136/)
+- ### 🗽 TOEIC B1 Certification
+    Internationally recognized credential validating intermediate English proficiency.
 
-* 🎤 **Festival Pitch**
-  2nd place in a solo pitch competition, recognized for delivering a 4-minute presentation proposing an innovative tech solution.
+-  ### 🧈 2nd Place – AWS DeepRacer Community Day Chile
+    Participated in the **AWS DeepRacer** autonomous racing challenge, where my team secured **2nd place in the finals** with a time of **10.526 seconds**, after winning the trial race.
+    This experience strengthened my understanding of **machine learning**, **reinforcement learning**, and real-world AI applications.
 
-* 🗽 **TOEIC B1 Certification**
-  Internationally recognized certification validating intermediate English proficiency.
+- ### 🚀 BuenVerbo – Interactive Orthography App
+    Co-developed *BuenVerbo*, a mobile app designed to address orthographic challenges in children and teenagers through playful and thematic exercises.
+    The project was recognized at **All In Chile** (Duoc UC), ranking among the **Top 100 innovative solutions nationwide**.
+    [🎥 Watch my pitch at the All In Chile event](https://www.linkedin.com/feed/update/urn:li:activity:7120030697850843136/)
 
-* 📚 **25+ Certifications**
-  Completed a wide range of certifications covering **NestJS**, **AI**, **Cloud** and more.
-  🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
+-  ### 🎤 2nd Place – Festival Pitch Competition
+    Recognized for delivering a **4-minute solo presentation** proposing an innovative tech solution, earning **2nd place** in a public pitch event.
 
 ---
 
