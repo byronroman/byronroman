@@ -44,8 +44,8 @@
   - <img height="20" src="https://skillicons.dev/icons?i=docker" title="Docker" /> Docker
   - <img height="20" src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" /> Kubernetes
   - <img height="20" src="https://skillicons.dev/icons?i=jest" title="Jest" /> Jest
-- 🤝 Open to collaborate on **open-source** and **tech-for-good** projects  
-- 💬 Always happy to collaborate or help whenever it's within my scope.
+- 🤝 Interested in contributing to **open-source** projects and tech initiatives with social impact **(tech-for-good)**.
+- 💬 Committed to collaborating, sharing knowledge, and supporting others whenever it's within my capabilities.
 
 <p align="center">
   <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="Coding Gohan from Dragon Ball GIF" />
