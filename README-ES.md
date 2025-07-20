@@ -169,7 +169,7 @@
 - ### 🗽 Certificación TOEIC B1
   Credencial de reconocimiento internacional que valida el dominio intermedio del idioma inglés.
 
-- ### 🧈 2º Lugar – AWS DeepRacer Community Day Chile *(2023)*
+- ### 🧈 2º Lugar – AWS DeepRacer Community Day Chile
   Participé en el desafío de carreras autónomas **AWS DeepRacer**, donde mi equipo logró el **2º lugar en la final** con un tiempo de **10.526 segundos**, tras haber ganado la carrera clasificatoria.
   Esta experiencia fortaleció mis conocimientos en **machine learning**, **aprendizaje por refuerzo** y aplicaciones reales de la inteligencia artificial.
 
