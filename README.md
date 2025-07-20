@@ -176,7 +176,6 @@
 * 🗽 **TOEIC B1 Certification**
   Internationally recognized certification validating intermediate English proficiency.
 
-
 * 📚 **25+ Certifications**
   Completed a wide range of certifications covering **NestJS**, **AI**, **Cloud** and more.
   🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
