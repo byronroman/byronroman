@@ -162,22 +162,24 @@
 
 ## 🏆 Logros y Reconocimientos
 
-* 🧈 **2º Lugar – AWS DeepRacer Community Day Chile** *(2023)*  
-  Participación en el desafío de autos autónomos **AWS DeepRacer**, logrando el 2º lugar en la final con un tiempo de 10.526 segundos. Esta experiencia permitió aplicar conceptos de machine learning y reforzar conocimientos de aprendizaje por refuerzo.
-
-* 🚀 **BuenVerbo – App Interactiva de Ortografía**  
-  Co-desarrollador de *BuenVerbo*, aplicación móvil que fortalece la ortografía en niños y jóvenes mediante ejercicios temáticos y lúdicos. Destacada en **All In Chile** (Duoc UC), entre las 100 soluciones más innovadoras a nivel nacional.  
-  [🎥 Mira mi pitch en el evento All In Chile](https://www.linkedin.com/feed/update/urn:li:activity:7120030697850843136/)
-
-* 🎤 **Festival Pitch**  
-  2º lugar en competencia individual por pitch, destacando una presentación de 4 minutos con propuesta tecnológica innovadora.
-
-* 🗽 **Certificación TOEIC B1**  
-  Certificación internacional que valida dominio intermedio del inglés.
-
-* 📚 **Más de 25 certificaciones**  
-  Cursos completados en **NestJS**, **IA**, **Cloud** y más.  
+- ### 📚 Más de 25 certificaciones técnicas
+  He completado una amplia variedad de certificaciones en áreas como **NestJS**, **Inteligencia Artificial**, **Computación en la Nube** y más.
   🔗 [Ver certificaciones en LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
+
+- ### 🗽 Certificación TOEIC B1
+  Credencial de reconocimiento internacional que valida el dominio intermedio del idioma inglés.
+
+- ### 🧈 2º Lugar – AWS DeepRacer Community Day Chile *(2023)*
+  Participé en el desafío de carreras autónomas **AWS DeepRacer**, donde mi equipo logró el **2º lugar en la final** con un tiempo de **10.526 segundos**, tras haber ganado la carrera clasificatoria.
+  Esta experiencia fortaleció mis conocimientos en **machine learning**, **aprendizaje por refuerzo** y aplicaciones reales de la inteligencia artificial.
+
+- ### 🚀 BuenVerbo – App Interactiva de Ortografía
+  Co-desarrollé *BuenVerbo*, una aplicación móvil orientada a resolver desafíos ortográficos en niños y adolescentes mediante ejercicios lúdicos y temáticos.
+  El proyecto fue reconocido en **All In Chile** (Duoc UC), posicionándose entre las **100 soluciones más innovadoras a nivel nacional**.
+  [🎥 Ver mi pitch en el evento All In Chile](https://www.linkedin.com/feed/update/urn:li:activity:7120030697850843136/)
+
+- ### 🎤 2º Lugar – Festival Pitch
+  Reconocimiento por una **presentación individual de 4 minutos**, donde propuse una solución tecnológica innovadora, obteniendo el **2º lugar** en el evento de pitch.
 
 ---
 
