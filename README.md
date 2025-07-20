@@ -1,15 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8e2de2&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=¡Hello,%20I'm%20Byron%20Román!&fontColor=ffffff&fontSize=45" title="Hello, I'm Byron Román"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=8e2de2&height=150&text=¡Hi,%20I'm%20Byron%20Román!&fontColor=ffffff&fontSize=45" title="Hi, I'm Byron Román"/>
 
 <p align="center">
-  🧑‍💻 <strong>Backend Developer specialized in</strong> <code>NestJS</code> <br>
+  🧑‍💻 <strong>Fullstack Developer specialized in</strong> <code>Angular</code> & <code>NestJS</code> <br>
   I build clean, scalable and resilient systems using <strong>microservices</strong>, <strong>BFF architectures</strong> and <strong>hexagonal design</strong>.<br>
   Passionate about delivering <strong>meaningful social impact</strong> through code.
 </p>
 
 <p align="center">
   <a href="https://github.com/byronroman/byronroman/blob/main/README-ES.md" target="_blank">
-      <img src="https://img.shields.io/badge/🌐%20Ver%20en%20Español-0e7490?style=flat-square&logo=readme&logoColor=white" height="40" title="Ver en Español" />
+    <img src="https://img.shields.io/badge/Ver%20en%20Español-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Ver en Español">
   </a>
 </p>
 
@@ -36,8 +36,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  About Me
 
-- 🎯 Passionate about **backend development**, **web systems architecture**, and **AI-powered solutions**  
-- 🎓 Computer Science graduate with a specialization in **Data Science (Duoc UC)**  
+- 🎯 Passionate about <strong>backend development</strong>, <strong>AI-powered solutions</strong> and <strong>visually impactful design</strong>.
+- 🎓 Computer Science graduate from **Duoc UC**, specialized in Data Science.
 - 🧪 Currently focused on mastering:
   - <img height="20" src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/> NestJS
   - <img height="20" src="https://skillicons.dev/icons?i=angular" title="Angular" /> Angular
@@ -48,7 +48,7 @@
 - 💬 Always happy to collaborate or help whenever it's within my scope.
 
 <p align="center">
-  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="Coding Gohan GIF" />
+  <img src="https://media.tenor.com/8hfmcs2bibwAAAAM/super-hero-gohan.gif" width="250" alt="Coding Gohan from Dragon Ball GIF" />
 </p>
 
 ---
@@ -143,14 +143,15 @@
   ### 🔧 Backend Developer – **IBM**  
   📍 *Mar 2025 – Present · Chile · Hybrid*
   
-  - Developed scalable backend services using **NestJS**  
-  - Integrated APIs and microservices within **BFF architectures**
+  - Developed robust microservices using **NestJS** and **TypeScript**
+  - Implemented **BFF pattern** to improve frontend/backend interaction
+  - Collaborated in a cross-functional team with UX, frontend and DevOps
   
   ### 💻 Frontend Developer Intern – **IBM**  
   📍 *Sep 2024 – Mar 2025 · Chile · Hybrid*
   
   - Built UI components using **React**, **TypeScript**, and **SCSS**  
-  - Collaborated with UX teams and developers from multiple regions  
+  - Collaborated with UX teams and developers from multiple countrys  
   - Integrated **LLaMA 3** assistants to optimize internal workflows
   
   <p align="left">
@@ -162,10 +163,23 @@
 
 ## 🏆 Achievements & Recognitions
 
-- 🥈 2nd place – **AWS DeepRacer Community Day Chile** (2023)  
-- 🚀 Finalist – **All In Chile** challenge (DuocUC)  
-- 📚 25+ certifications in backend, cloud & API development  
-- 🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
+* 🧈 **2nd Place – AWS DeepRacer Community Day Chile** *(2023)*
+  Participated with my team in the autonomous racing challenge **AWS DeepRacer**, where we achieved 2nd place in the finals with a time of 10.526 seconds, after winning the trial race. This experience allowed me to apply machine learning concepts and deepen my understanding of reinforcement learning and AI-powered systems.
+
+* 🚀 **BuenVerbo – Interactive Orthography App**
+  Co-developed *BuenVerbo*, a mobile application designed to tackle orthographic challenges in children and teens through playful and thematic exercises. The project was recognized at **All In Chile** (Duoc UC), ranking among the top 100 innovative solutions nationwide.
+  [🎥 Check out my pitch at the All In Chile event](https://www.linkedin.com/feed/update/urn:li:activity:7120030697850843136/)
+
+* 🎤 **Festival Pitch**
+  2nd place in a solo pitch competition, recognized for delivering a 4-minute presentation proposing an innovative tech solution.
+
+* 🗽 **TOEIC B1 Certification**
+  Internationally recognized certification validating intermediate English proficiency.
+
+
+* 📚 **25+ Certifications**
+  Completed a wide range of certifications covering **NestJS**, **AI**, **Cloud** and more.
+  🔗 [See certifications on LinkedIn](https://www.linkedin.com/in/byroman/details/certifications/)
 
 ---
 
