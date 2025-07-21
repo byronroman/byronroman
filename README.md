@@ -169,6 +169,7 @@
 
 - ### 🗽 TOEIC B1 Certification
     Internationally recognized credential validating intermediate English proficiency.
+    [🎥 Watch the certificate](https://www.linkedin.com/in/byroman/details/certifications/1712633936316/single-media-viewer/?profileId=ACoAADg-JXkBD79rX1C5HX1Wy0vbJg4FIGtEbzo)
 
 -  ### 🧈 2nd Place – AWS DeepRacer Community Day Chile
     Participated in the **AWS DeepRacer** autonomous racing challenge, where my team secured **2nd place in the finals** with a time of **10.526 seconds**, after winning the trial race.
